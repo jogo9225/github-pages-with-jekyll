@@ -1,5 +1,5 @@
 ---
-title: "Welcom to my blog"
+title: "Joel's Post Title"
 date: 2019-05-14
 ---
 
@@ -10,6 +10,7 @@ date: 2019-05-14
 **content**
 
 col A | Col B
--------------
+------|------
 ball  | call
+------|------
 thrall| lol
