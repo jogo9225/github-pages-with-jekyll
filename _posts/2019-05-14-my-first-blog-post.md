@@ -2,4 +2,8 @@
 ## Some Content
 *content*
 **content**
-$x = 2$
+
+col A | Col B
+-------------
+ball  | call
+thrall| lol
