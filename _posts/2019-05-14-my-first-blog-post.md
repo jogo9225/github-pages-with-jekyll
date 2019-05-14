@@ -2,3 +2,4 @@
 ## Some Content
 *content*
 **content**
+$x = 2$
